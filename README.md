@@ -8,3 +8,5 @@ Sorry its all zip's :(
 * It exists to study source exposure, packaging failures, and the architecture of modern agentic CLI systems.
 * The original CC source remains the property of Anthropic.
 * This repository is not affiliated with, endorsed by, or maintained by Anthropic.
+
+# I have NOT modded any code from these, i do not claim any ownership of these files, this is just a archive.
