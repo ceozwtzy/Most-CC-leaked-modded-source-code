@@ -1,6 +1,10 @@
 # Most-CC-leaked-modded-actual-source-code-
 Most CC (leaked/modded) actual source code. (archive)
 
+![License](https://img.shields.io/badge/License-Research%20Only-blue.svg) 
+![Status](https://img.shields.io/badge/Build-Experimental-red.svg)
+![Parity](https://img.shields.io/badge/Parity-Python%2FRust-orange.svg)
+
 Sorry its all zip's :(
 
 # Research / Ownership Disclaimer
