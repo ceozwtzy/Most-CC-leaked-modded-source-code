@@ -1,6 +1,7 @@
 # Most-CC-leaked-modded-actual-source-code-
 Most CC (leaked/modded) actual source code. (archive)
 
+Sorry its all zip's :(
 
 # Research / Ownership Disclaimer
 * This repository is an **educational** and **defensive security research archive** maintained by a student.
